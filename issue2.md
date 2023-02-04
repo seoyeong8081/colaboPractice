@@ -1,5 +1,7 @@
 issue file
 
+### seoyeong modified
+git master
 
 -------------------------------
 yg modified
